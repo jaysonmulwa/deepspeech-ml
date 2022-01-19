@@ -1,0 +1,19 @@
+{
+  "name": "deepspeech-node",
+  "version": "1.0.0",
+  "description": "speech to text api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "deepspeech-node"
+  },
+  "author": "jaysonmulwa",
+  "license": "ISC",
+  "dependencies": {
+    "deepspeech": "^0.9.3",
+    "sox": "^0.1.0"
+  }
+}
